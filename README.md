@@ -1,5 +1,5 @@
 # Employee-Payroll-Tracker-
-
+![Screenshot 2024-05-10 154707](https://github.com/SailorVirgo/Employee-Payroll-Tracker-/assets/153470839/c820559a-38f6-4dc9-9572-ae740817ab3b)
 
 This project is an Employee Payroll Tracker that allows payroll managers to manage and track employee payroll data.
 
@@ -25,6 +25,22 @@ This project is an Employee Payroll Tracker that allows payroll managers to mana
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+
+## Usage
+
+- Open the index.html file in your web browser.
+- Click on the "Add Employees" button to add employee data.
+- Follow the prompts to enter employee details.
+- View the employee data displayed in the HTML table.
+- Explore other functionalities such as displaying average salary and selecting random employees.
+
+## Contributing
+
+- Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
+
+## License
+
+- This project is licensed under the MIT License.
 
 ## Getting Started
 
